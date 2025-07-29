@@ -1,4 +1,4 @@
-module zero_core
+module github.com/Skysolderone/zero_core
 
 go 1.23.2
 
